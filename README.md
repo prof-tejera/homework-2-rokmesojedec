@@ -41,8 +41,8 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- How did you deploy it?
-- What code editor are you using?
+- URL to live application: http://mesojedec.io:3005/cscie39/
+- How did you deploy it? I have my own DigitalOcean Ubuntu dropplet. I create an express server and deployed the app on my dropplet. 
+- What code editor are you using? VSCode
 
 That is all!
